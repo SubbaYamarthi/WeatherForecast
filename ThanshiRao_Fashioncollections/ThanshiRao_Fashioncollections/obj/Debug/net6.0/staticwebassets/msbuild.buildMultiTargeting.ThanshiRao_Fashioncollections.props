@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThanshiRao_Fashioncollections.props" />
+</Project>
